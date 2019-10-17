@@ -18,18 +18,17 @@
 ## TECHNICAL EXPERIENCE
 
 ### Software Engineer Intern
-#### decent Labs
-##### DevOps & Backend API Integration Team | San Francisco, CA
+#### decent Labs - DevOps & Backend API Integration Team | San Francisco, CA
  - Created Go structures for high-performance data streaming and buffering, reducing algorithm complexity from quadratic to linear-time, using technologies like GoLang, and Python.
  - Collaborated with 6 other engineers on the team to serve and maintain current API integrations and API requests on a Go service and blockchain service for clients.
  - Performed a leader/ mentor role within our pod consisting of 3 interns and took over bug fixes that supported other team members and maintained code quality by code reviews, and pair programming sessions.
  - Developed a custom string parser which worked 40 times faster than third-party parsers to satisfy the Kairos Facial Recognition team’s need to perform near real time data aggregation.
 
-Full Stack Developer
-Florida Yachts International​ | Miami, FL
-● Worked with the marketing team to reengineer the company’s website using technologies suchasthe latestversionof​PHP​,​wordpress​,​HTML​,​CSS​,and​JavaScriptwhichledtoincreasedweb traffic ​120K​visitors, higher conversion rates, and faster page load speed.
-● Moved the sales team from paper based to digital document management, developed a fully automated CRM application that resulted in an ​$10.3M​sales closing rate.
-● Saved the company significant money and increased the sales team’s response rate by 70% by customizing an open source CRM software and connecting to the Conversica’s API to create a fast, efficient in-house email response solution.
+### Full Stack Developer
+#### Florida Yachts International | Miami, FL
+ - Worked with the marketing team to reengineer the company’s website using technologies suchasthe latestversionof​PHP​,​wordpress​,​HTML​,​CSS​,and​JavaScriptwhichledtoincreasedweb traffic ​120K​visitors, higher conversion rates, and faster page load speed.
+ - Moved the sales team from paper based to digital document management, developed a fully automated CRM application that resulted in an ​$10.3M​sales closing rate.
+  - Saved the company significant money and increased the sales team’s response rate by 70% by customizing an open source CRM software and connecting to the Conversica’s API to create a fast, efficient in-house email response solution.
 
 ## PROJECT HIGHLIGHTS
 Backend Engineer
