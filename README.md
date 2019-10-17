@@ -14,7 +14,6 @@
  - Full Stack Development Bootcamp - University of Central Florida
  - EMS - Paramedic Firefighter - City College of Miami
 
-
 ## TECHNICAL EXPERIENCE
 
 ### Software Engineer Intern
@@ -31,24 +30,32 @@
   - Saved the company significant money and increased the sales team’s response rate by 70% by customizing an open source CRM software and connecting to the Conversica’s API to create a fast, efficient in-house email response solution.
 
 ## PROJECT HIGHLIGHTS
-Backend Engineer
-Digital Menu - ​github.com/jayceazua/digitalMenu
-● Developed and ​implemented a ​RESTful API that ​integrates across multiple third-party apps to automatically update restaurant menu items by using ​web application technologies such as ​Python​, Django​, Docker, React.js, ​JavaScript​, HTML, CSS, and ​PostgreSQL​.
-● Work in weekly sprints with the frontend engineer to ​convert from ​Node.js to ​Python​’s web framework; ​Django​, which resulted in ​10%​better performance and greater reliability.
-● Configured a database migration from ​MongoDB to ​PostgreSQL and developed a Django ORM that can pre-load data to reduce the number of ​database​ queries needed to retrieve.
+### Backend Engineer
+#### Digital Menu - github.com/jayceazua/digitalMenu
+ - Developed and ​implemented a ​RESTful API that ​integrates across multiple third-party apps to automatically update restaurant menu items by using ​web application technologies such as ​Python​, Django​, Docker, React.js, ​JavaScript​, HTML, CSS, and ​PostgreSQL​.
+ - Work in weekly sprints with the frontend engineer to ​convert from ​Node.js to ​Python​’s web framework; ​Django​, which resulted in ​10%​better performance and greater reliability.
+ - Configured a database migration from ​MongoDB to ​PostgreSQL and developed a Django ORM that can pre-load data to reduce the number of ​database​ queries needed to retrieve.
 
-Backend Engineer
-Loqal - ​github.com/emergehacksthon-team-5
-● Led the team to a ​second-place finish (out of 28 teams) in eMerge America’s 12-hour hackathon by creating a widget chat messaging system that eliminates language barriers by auto translating messages into the end user’s preferred language using Google’s Translates API, ​Typescript​, Cloud Functions​, ​Firebase, ​and​ React Native
-● Pair programmed with the front end team to ensure successful linking of the stack and to architect a feature with functional reactive programming principles to ensure cleaner and more expressive code for asynchronous operations.
+### Backend Engineer
+#### Loqal - ​github.com/emergehacksthon-team-5
+ - Led the team to a ​second-place finish (out of 28 teams) in eMerge America’s 12-hour hackathon by creating a widget chat messaging system that eliminates language barriers by auto translating messages into the end user’s preferred language using Google’s Translates API, ​Typescript​, Cloud Functions​, ​Firebase, ​and​ React Native
+ - Pair programmed with the front end team to ensure successful linking of the stack and to architect a feature with functional reactive programming principles to ensure cleaner and more expressive code for asynchronous operations.
 
 ## LEADERSHIP/ VOLUNTEER
-Intro to CS - TA Volunteer
-Make School
-Course Instructor
-PayPal - ​Dare 2B Digital Sub-Station Guide Leader
-U.S. Marine Corps RSS San Francisco Technology Lead Volunteer
-U.S. Marine Corps’ Memorial Club Volunteer Paramedic Firefighter City of Miami Fire Rescue
+### Intro to CS - TA Volunteer
+#### Make School
+
+### Course Instructor
+#### PayPal - ​Dare 2B Digital 
+
+### Sub-Station Guide Leader
+#### U.S. Marine Corps RSS San Francisco 
+
+### Technology Lead Volunteer
+#### U.S. Marine Corps’ Memorial Club Volunteer 
+
+### Paramedic Firefighter 
+#### City of Miami Fire Rescue
 
 ## ENGINEERING SKILLS
 #### Programming Languages:
