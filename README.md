@@ -42,19 +42,19 @@
  - Pair programmed with the front end team to ensure successful linking of the stack and to architect a feature with functional reactive programming principles to ensure cleaner and more expressive code for asynchronous operations.
 
 ## LEADERSHIP/ VOLUNTEER
-### Intro to CS - TA Volunteer
+ - ### Intro to CS - TA Volunteer
 #### Make School
 
-### Course Instructor
+ - ### Course Instructor
 #### PayPal - ​Dare 2B Digital 
 
-### Sub-Station Guide Leader
+ - ### Sub-Station Guide Leader
 #### U.S. Marine Corps RSS San Francisco 
 
-### Technology Lead Volunteer
+ - ### Technology Lead Volunteer
 #### U.S. Marine Corps’ Memorial Club Volunteer 
 
-### Paramedic Firefighter 
+ - ### Paramedic Firefighter 
 #### City of Miami Fire Rescue
 
 ## ENGINEERING SKILLS
