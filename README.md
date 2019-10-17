@@ -17,12 +17,13 @@
 
 ## TECHNICAL EXPERIENCE
 
-Software Engineer Intern
-decent Labs - ​DevOps & Backend API Integration Team | ​San Francisco, CA
-● Created Go structures for ​high-performance data streaming and buffering, reducing algorithm complexity from quadratic to linear-time, using technologies like ​GoLang​, and ​Python​.
-● Collaborated with 6 other engineers on the team to serve and maintain current ​API integrations ​and API requests on a Go service and blockchain service for clients.
-● Performed a leader/ mentor role within our pod consisting of 3 interns and took over bug fixes that supported other team members and m​aintained code quality by ​code reviews​, and ​pair programming​ sessions.
-● Developed a custom string parser which worked ​40 times faster than third-party parsers to satisfy the Kairos Facial Recognition team’s need to perform near real time ​data aggregation​.
+### Software Engineer Intern
+#### decent Labs
+##### DevOps & Backend API Integration Team | San Francisco, CA
+ - Created Go structures for high-performance data streaming and buffering, reducing algorithm complexity from quadratic to linear-time, using technologies like GoLang, and Python.
+ - Collaborated with 6 other engineers on the team to serve and maintain current API integrations and API requests on a Go service and blockchain service for clients.
+ - Performed a leader/ mentor role within our pod consisting of 3 interns and took over bug fixes that supported other team members and maintained code quality by code reviews, and pair programming sessions.
+ - Developed a custom string parser which worked 40 times faster than third-party parsers to satisfy the Kairos Facial Recognition team’s need to perform near real time data aggregation.
 
 Full Stack Developer
 Florida Yachts International​ | Miami, FL
